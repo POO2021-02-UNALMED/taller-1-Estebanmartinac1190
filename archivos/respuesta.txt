@@ -1,0 +1,2 @@
+Las carpetas vacias no se consideran como cambios o adiciones de archivos al proyecto
+
