@@ -1,3 +1,5 @@
 David Esteban Martin Acosta	
 19
 Aprender los fundamentos de POO y poder aplicar estos conceptos en problemas de diferentes contextos para profundizar los conceptos adquiridos
+La carpeta ya no está vacía
+Se puede generar un conflicto entre las versiones y podemos llegar a perder la información
